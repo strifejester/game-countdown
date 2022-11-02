@@ -1,2 +1,5 @@
 # game-countdown
-Countdown to game release MS Tutorial
+
+This is the project where we count down to the final game release date.
+
+Everyone is so excited.
